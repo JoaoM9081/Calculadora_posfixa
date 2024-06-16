@@ -1,5 +1,5 @@
-#ifndef CALCULADORA_H
-#define CALCULADORA_H
+#ifndef EXPRESSAO_H
+#define EXPRESSAO_H
 
 typedef struct {
     char posFixa[512];     // Expressão na forma pós-fixa, como 3 12 4 + *
