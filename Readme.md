@@ -67,7 +67,7 @@ Para clonar o repositório e executar o projeto, siga estes passos:
 ### 3. Executar o Projeto
 
 ```sh
-    .\'calculadora.exe'
+    ./calculadora
 ```
 
 ## Contribuidores
