@@ -55,19 +55,19 @@ Para clonar o repositório e executar o projeto, siga estes passos:
 ### 1. Clonar o Repositório
 
 ```sh
-    git clone https://github.com/JoaoM9081/Calculadora_posfixa.git
+git clone https://github.com/JoaoM9081/Calculadora_posfixa.git
 ```
 
 ### 3. Compilar projeto
 
 ```sh
-    gcc main.c calculadora.c -o calculadora -lm
+gcc main.c calculadora.c -o calculadora -lm
 ```
 
 ### 3. Executar o Projeto
 
 ```sh
-    ./calculadora
+./calculadora
 ```
 
 ## Contribuidores
